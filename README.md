@@ -30,6 +30,7 @@ This GitHub is my **learning journal**, where I document my progress, notes, and
 - Wireshark  
 - VirusTotal  
 - LetsDefend Labs  
+- Tryhackme Labs
 
 **💻 Technical Skills**
 - 🧰 **SQL** — Intermediate (queries, joins, data filtering)  
