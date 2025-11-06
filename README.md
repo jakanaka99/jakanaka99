@@ -41,7 +41,7 @@ This GitHub is my **learning journal**, where I document my progress, notes, and
 ---
 
 ### 📂 Featured Learning Repositories
-- **[soc-fundamentals](https://github.com/jakanaka99/soc-fundamentals)** — Notes and lab writeups from LetsDefend’s SOC Fundamentals.  
+- **[soc-fundamentals](https://github.com/jakanaka99/soc-learning-path/tree/main/SOC-Fundamentals)** — Notes and lab writeups from LetsDefend’s SOC Fundamentals.  
 - **[incident-response-labs](https://github.com/jakanaka99/incident-response-labs)** — Step-by-step investigations from simulated incidents.  
 - **[log-analysis-demos](https://github.com/jakanaka99/log-analysis-demos)** — Example logs and detection analysis exercises.  
 
