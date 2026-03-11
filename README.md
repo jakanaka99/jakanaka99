@@ -1,66 +1,76 @@
 # 👋 Hi, I'm Yeamin Hossein  
 
-![Focus](https://img.shields.io/badge/Focus-Security%20Operations%20%7C%20Blue%20Team-blue?style=flat-square)
-![Platform](https://img.shields.io/badge/Learning%20on-LetsDefend-orange?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Web%20Application%20Security%20%7C%20Pentesting-red?style=flat-square)
+![Platform](https://img.shields.io/badge/Learning%20on-PortSwigger%20Academy-orange?style=flat-square)
 ![Skills](https://img.shields.io/badge/Skills-SQL%20(Intermediate)%20%7C%20Python%20(Basic)%20%7C%20Java%20(Basic)-yellow?style=flat-square)
-![Goal](https://img.shields.io/badge/Goal-Tier%201%20SOC%20Analyst-success?style=flat-square)
+![Background](https://img.shields.io/badge/Background-SOC%20Foundations-blue?style=flat-square)
 
-**Aspiring SOC Analyst | Blue Team Enthusiast | Cybersecurity Learner**
+**Aspiring Web Application Pentester | Cybersecurity Learner**
 
-I'm building my foundation in **Security Operations** through hands-on investigations on **LetsDefend**, where I analyze alerts, study attack patterns, and learn how real SOC teams detect and respond to threats.  
-This GitHub profile serves as my **learning journal**, documenting my progress across SOC fundamentals, incident response, phishing analysis, and log investigation.
+I'm currently focused on **Web Application Security and penetration testing**, solving hands-on vulnerability labs on **PortSwigger Web Security Academy** and documenting vulnerabilities such as **XSS, SQL Injection, authentication flaws, access control issues, and directory traversal**.
+
+Before shifting toward offensive security, I built a foundation in **Security Operations (SOC)** where I studied detection fundamentals, incident response, phishing analysis, and log investigation.
+
+This GitHub now documents my journey transitioning from **defensive security (Blue Team)** to **offensive security (Web Pentesting)**.
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning: SOC operations, detection fundamentals, and incident response  
-- 🎯 Goal: Become a **Tier 1 SOC Analyst**  
-- 🧩 Strengths: Curiosity, consistency, analytical thinking  
+
+- 🌱 Currently learning: **Web application vulnerabilities & exploitation**
+- 🎯 Goal: Become a **skilled Web Security Researcher / Pentester**
+- 🧩 Strengths: Curiosity, persistence, analytical thinking
 
 ---
 
 ## 🔭 Current Focus Areas
 
-### 🛡️ SOC & Blue Team Topics
-- Alert triage, investigation & escalation  
-- Threat analysis mapped to **MITRE ATT&CK**  
-- Windows Event Logs, Sysmon, Linux logs  
-- Phishing investigation & email analysis  
+### 🌐 Web Application Security
+- Cross-Site Scripting (**XSS**)  
+- SQL Injection (**SQLi**)  
+- Authentication vulnerabilities  
+- Access control issues (**IDOR**, privilege escalation)  
+- Directory traversal  
+- Web security fundamentals  
 
-### ⚙️ Tools & Platforms
-- SIEM (concepts + hands-on)  
-- Wireshark  
-- VirusTotal  
-- LetsDefend  
+### 🧪 Platforms & Learning
+- **PortSwigger Web Security Academy**  
 - TryHackMe  
-
-### 💻 Technical Skills
-- **SQL** — Intermediate (queries, joins, filtering, logic)  
-- **Python** — Basic (scripts & automation fundamentals)  
-- **Java** — Basic (core syntax & logic)  
-- **Excel** — Basic (data organization & simple analysis)  
 
 ---
 
-## 📂 Featured Learning Repository
+## 💻 Technical Skills
+
+- **SQL** — Intermediate (queries, joins, filtering, logic)  
+- **Python** — Basic (scripts & automation fundamentals)  
+- **Java** — Basic (core syntax & logic)  
+- **Excel** — Basic (data organization & simple analysis)
+
+---
+
+## 📂 Featured Learning Repositories
+
 📌 **SOC Learning Path**  
-A collection of my notes, investigations, and course completions:  
+My earlier journey learning SOC fundamentals and blue team concepts.  
 👉 https://github.com/jakanaka99/soc-learning-path
+
+📌 **Web Pentesting Labs** *(current focus)*  
+Writeups and notes from **PortSwigger Web Security Academy** labs.
 
 ---
 
 ## 🧾 How I Document Labs
-Every investigation or lab follows a structured approach:
 
-1. **Overview** — Scenario summary & objectives  
-2. **Steps Taken** — Reasoning, commands, and tools used  
-3. **Findings** — Indicators, evidence, and key observations  
-4. **Conclusion** — Lessons learned & mitigation recommendations  
+For each lab, I focus on understanding **why the vulnerability exists and how it can be exploited**.
 
-> _I document everything not just for myself, but to help others beginning their SOC journey too._
+My notes follow a structured format to highlight the key security concepts clearly.
 
----
+**Typical structure:**
 
-## 🤝 Let’s Connect  
-If you're learning SOC, blue team skills, or cybersecurity in general — feel free to reach out!
+1. **Observation** — What behavior suggests a potential vulnerability  
+2. **Test** — The method used to verify the issue  
+3. **Payload** — The input or technique used to exploit it  
+4. **Result** — What the payload achieved and why it worked  
+5. **Fix (optional)** — How the vulnerability should be mitigated
 
+Example:
